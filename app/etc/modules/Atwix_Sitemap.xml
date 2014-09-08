@@ -24,7 +24,7 @@
     <modules>
         <Atwix_Sitemap>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </Atwix_Sitemap>
     </modules>
 </config>
